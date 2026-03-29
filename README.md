@@ -53,6 +53,8 @@ Un asistente de inteligencia artificial en tiempo real que te permite interactua
 -   Fondo animado con efecto gradiente
 -   Iconos de Lucide React
 
+![texto del vínculo](https://www.interactions.com/wp-content/uploads/2018/10/pure_vs_pragmatic_ai_2000x500.jpg)
+
 ## 🏛️ Arquitectura del Proyecto
 
 ```
