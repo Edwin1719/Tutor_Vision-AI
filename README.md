@@ -4,6 +4,8 @@
 
 Un asistente de inteligencia artificial en tiempo real que te permite interactuar por voz con modelos de Gemini y compartir tu pantalla o cámara. La aplicación está diseñada para ser una herramienta de asistencia bilingüe (inglés y español) con pizarra interactiva para anotaciones manuales.
 
+![texto del vínculo](https://i.ytimg.com/vi/zUkKvWBJ_0I/maxresdefault.jpg)
+
 ## ✨ Características Principales
 
 ### 🎙️ Interacción por Voz en Tiempo Real
