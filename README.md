@@ -1,4 +1,4 @@
-# Asistente de Pantalla Compartida con IA - Gemini Assistant 
+# Asistente de pantalla compartida en vivo con IA - Gemini Assistant 
 
 ![Demostración de la aplicación](https://raw.githubusercontent.com/Edwin1719/Screen_Share_Assistant/main/public/App.gif)
 
